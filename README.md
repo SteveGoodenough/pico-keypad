@@ -7,3 +7,5 @@ It requires the Adafruit image to enable the pico to act as a keyboard device wh
 I adapted this from a gist I found but made this so I could customize what each key does, and each key can be a keyboard shortcut or consumer code (like media controls)
 
 I'll add more details later about the keypad itself etc
+
+note: button 16, bottom right key will turn on/off the light effect. commented out code were me playing with other effects.
